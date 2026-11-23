@@ -22,6 +22,13 @@ or a friend's laptop can watch and drive it without installing anything.
 
 Both desktop builds update themselves in place.
 
+### Mac, via Homebrew
+
+```bash
+brew tap edwin-hao-ai/remotecrab
+brew install --cask remotecrab
+```
+
 ## What it does
 
 - **Camera** — 1080p at 30 fps, H.264 over your local network, and a virtual
