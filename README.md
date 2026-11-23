@@ -9,9 +9,9 @@ modern browser** (`vgoapp.com/remotecab`-free, one link, no account), so a
 Windows PC or a friend's laptop can watch and drive it without installing
 anything.
 
-> This repository is the **download and documentation** page for a closed-source
-> product. It holds no source code. The licence below covers the release
-> artefacts' documentation only; the app itself is proprietary.
+> This repository is the **download and documentation** page. It contains no
+> source code — the application's source is not published. The licence below
+> covers the documents in this repository.
 
 ## Download
 
