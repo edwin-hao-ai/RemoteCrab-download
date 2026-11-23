@@ -4,10 +4,9 @@
 
 RemoteCrab turns an iPhone or iPad into a **camera, microphone, trackpad and
 keyboard** for your Mac — over your own Wi-Fi, with no account, no cloud
-round-trip and no analytics. The Mac half also shares your screen to **any
-modern browser** (`vgoapp.com/remotecab`-free, one link, no account), so a
-Windows PC or a friend's laptop can watch and drive it without installing
-anything.
+round-trip and no analytics. The Mac half can also share your screen to **any
+modern browser**: one link, no account, no certificate to accept, so a Windows PC
+or a friend's laptop can watch and drive it without installing anything.
 
 > This repository is the **download and documentation** page. It contains no
 > source code — the application's source is not published. The licence below
