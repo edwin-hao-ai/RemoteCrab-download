@@ -2,6 +2,9 @@
 
 **Stop buying webcams. The iPhone in your drawer already is one.**
 
+![The keys on the phone follow the app in front on the Mac](docs/product-shot.jpg)
+
+
 RemoteCrab turns an iPhone or iPad into a **camera, microphone, trackpad and
 keyboard** for your Mac — over your own Wi-Fi, with no account, no cloud
 round-trip and no analytics. The Mac half can also share your screen to **any
