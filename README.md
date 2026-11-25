@@ -65,7 +65,7 @@ yet: it requires 225 stars for a self-submitted cask.
 ## Privacy and support
 
 - Privacy policy: [PRIVACY.md](PRIVACY.md) · [vgoapp.com/remotecrab/privacy](https://vgoapp.com/remotecrab/privacy/)
-- Product page: [vgoapp.com/remotecrab](https://vgoapp.com/remotecrab/)
+- Product page: [vgoapp.com/remotecrab](https://vgoapp.com/remotecrab/?utm_source=github-readme&utm_medium=readme&utm_campaign=repo)
 - Issues: please open an issue here. Include the app version (Mac: About;
   Windows: the tray footer) and what the status line said.
 
