@@ -38,6 +38,20 @@ refuses to load the cask. If your Homebrew predates `brew trust`, use the DMG ab
 instead. `brew install --cask remotecrab` from the official repository is not available
 yet: it requires 225 stars for a self-submitted cask.
 
+### Windows, via Scoop
+
+```powershell
+scoop bucket add remotecrab https://github.com/edwin-hao-ai/scoop-remotecrab
+scoop install remotecrab
+```
+
+This installs unprivileged: no UAC prompt, nothing in `Program Files`. The virtual camera
+needs a driver, and the tray integration is registered by the MSI inside the same archive, so
+if you want those, run `install.cmd` as administrator from `scoop prefix remotecrab`. Camera,
+microphone, trackpad, keyboard and the browser viewer work without it.
+
+`winget install BeijingVGO.RemoteCrab` is pending review in microsoft/winget-pkgs.
+
 ## What it does
 
 - **Camera** — 1080p at 30 fps, H.264 over your local network, and a virtual
