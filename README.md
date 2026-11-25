@@ -29,8 +29,14 @@ Both desktop builds update themselves in place.
 
 ```bash
 brew tap edwin-hao-ai/remotecrab
-brew install --cask remotecrab
+brew trust --cask edwin-hao-ai/remotecrab/remotecrab
+brew install --cask edwin-hao-ai/remotecrab/remotecrab
 ```
+
+The `trust` step is Homebrew's own guard for third-party taps; without it the install
+refuses to load the cask. If your Homebrew predates `brew trust`, use the DMG above
+instead. `brew install --cask remotecrab` from the official repository is not available
+yet: it requires 225 stars for a self-submitted cask.
 
 ## What it does
 
